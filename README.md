@@ -23,3 +23,20 @@ The source of data used for the analysis is CustomerData.xls which was spooled f
   3. Load data
   4. Create visualisation report
   5. Publish report
+
+### Data Cleaning
+The first step carried out in analysing the sales report was to clean the data, transform the data and format the data to fit for purpose. 
+
+### Exploratory Data Analysis
+In exploring the data set for Capstone stores, data analysis was conducted to address the following area of concern:
+- The total number of subsription in each region.
+- The most popular subsription type by number of customer.
+- Total revenue by subsription type.
+- Top 3 regions by subsription cancellation.
+- The top 5 customers by total subscription amount.
+
+### Data Analysis
+---
+Microsoft Excel
+- While cleaning and filtering the data on Excel, the following formular and commands were used to determine the year and month of transaction from the order date column:
+```excel
